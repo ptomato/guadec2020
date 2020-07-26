@@ -69,7 +69,7 @@ style: |
 
 ## The 2020 edition
 
-**Philip Chimento** • <i class="fab fa-rocketchat"></i>&thinsp;<i class="fab fa-gitlab"></i>&thinsp;<i class="fab fa-github"></i> ptomato • <i class="fab fa-twitter"></i> @therealptomato
+**Philip Chimento** • <i class="fab fa-rocketchat"></i> pchimento • <i class="fab fa-gitlab"></i>&thinsp;<i class="fab fa-github"></i> ptomato • <i class="fab fa-twitter"></i> @therealptomato
 GUADEC Online, July 25, 2020
 
 <!--
